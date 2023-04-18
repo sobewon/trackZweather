@@ -1,0 +1,76 @@
+body {
+  background-color: #333;
+  color: #000;
+  font-family: Arial, sans-serif;
+  margin: 0;
+}
+
+.container {
+  display: flex;
+}
+
+.sidebar {
+  width: 200px;
+  padding: 20px;
+  background-color: #f1f1f1;
+}
+
+.content {
+  flex: 1;
+  padding: 20px;
+}
+
+h1 {
+  margin-top: 0;
+}
+
+form {
+  margin-bottom: 20px;
+}
+
+input[type="text"] {
+  padding: 10px;
+  width: 200px;
+}
+
+button[type="submit"] {
+  padding: 10px;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  cursor: pointer;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+li {
+  margin-bottom: 10px;
+  cursor: pointer;
+}
+
+li:hover {
+  text-decoration: underline;
+}
+
+/* CSS for recent cities buttons */
+.recent-search-btn {
+  background-color: #007bff; /* Set background color */
+  color: #fff; /* Set text color */
+  border: none; /* Remove border */
+  padding: 5px 10px; /* Add padding */
+  margin-bottom: 5px; /* Add margin at the bottom */
+  cursor: pointer; /* Add cursor pointer on hover */
+  transition: background-color 0.3s ease; /* Add smooth transition effect */
+}
+
+.recent-search-btn:hover {
+  background-color: #0069d9; /* Change background color on hover */
+}
+
+.recent-search-btn:focus {
+  outline: none; /* Remove focus outline */
+}
+
