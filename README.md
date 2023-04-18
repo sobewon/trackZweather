@@ -1,5 +1,6 @@
 # trackZweather
 A simple weather tracker app.
+- It only saves the most recent 5 cities searched.
 
 ## Reason for Creation
 
@@ -16,6 +17,7 @@ Let's be honest here, I created this for class, I even put off doing it for week
 
 ## Screen Shot
 
+-Note: Screenshot only shows 2 cities because I was having fun clicking the button 😅
 ![Screenshot1](./assets/images/scrsht.png)
 
 ### [--My GitHub--](https://github.com/sobewon/trackZweather )
