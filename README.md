@@ -18,4 +18,4 @@ Let's be honest here, I created this for class, I even put off doing it for week
 
 ![Screenshot1](./assets/images/scrsht.png)
 
-### [Github](https://github.com/sobewon/trackZweather )
+### [--My GitHub--](https://github.com/sobewon/trackZweather )
